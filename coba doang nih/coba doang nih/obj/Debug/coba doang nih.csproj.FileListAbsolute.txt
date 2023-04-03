@@ -1,0 +1,11 @@
+C:\Users\halim\source\repos\coba doang nih\coba doang nih\bin\Debug\coba doang nih.exe.config
+C:\Users\halim\source\repos\coba doang nih\coba doang nih\bin\Debug\coba doang nih.exe
+C:\Users\halim\source\repos\coba doang nih\coba doang nih\bin\Debug\coba doang nih.pdb
+C:\Users\halim\source\repos\coba doang nih\coba doang nih\obj\Debug\coba doang nih.csproj.AssemblyReference.cache
+C:\Users\halim\source\repos\coba doang nih\coba doang nih\obj\Debug\coba doang nih.csproj.SuggestedBindingRedirects.cache
+C:\Users\halim\source\repos\coba doang nih\coba doang nih\obj\Debug\coba_doang_nih.Form1.resources
+C:\Users\halim\source\repos\coba doang nih\coba doang nih\obj\Debug\coba_doang_nih.Properties.Resources.resources
+C:\Users\halim\source\repos\coba doang nih\coba doang nih\obj\Debug\coba doang nih.csproj.GenerateResource.cache
+C:\Users\halim\source\repos\coba doang nih\coba doang nih\obj\Debug\coba doang nih.csproj.CoreCompileInputs.cache
+C:\Users\halim\source\repos\coba doang nih\coba doang nih\obj\Debug\coba doang nih.exe
+C:\Users\halim\source\repos\coba doang nih\coba doang nih\obj\Debug\coba doang nih.pdb
